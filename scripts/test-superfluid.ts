@@ -1,5 +1,5 @@
 // test-superfluid.ts
-const { alchemyApiKey, privateKey, infuraProjectId, etherscanApiKey } = require('../secrets.json');
+const { alchemyApiKey, privateKey, infuraProjectId, etherscanApiKey } = require('../.secrets.json');
 
 const { ethers } = require("hardhat");
 
